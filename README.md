@@ -1,30 +1,52 @@
-# Weather Prediction with Scikit Learn, Streamlit and Deployed with Flask
+# SkyCast AI
 
-![](./assets/prev-1.gif)
+## Machine Learning Based Weather Prediction System
 
-## Weather Prediction with Scikit Learn, Numpy, Pandas, Streamlit and Deployed with Flask 
+### Overview
 
-The Model was trained with Tabular Weather Data and with the `KNeighborsClassifier` Scikit-Learn Architecture. The Model predicts if a Weather will be either `Sun`, `Rain`, `Fog`, `Snow`, or `Drizzle`, also the U.I. to select the parameters of the Weather was built with Streamlit and the API with Flask. 
+SkyCast AI is an intelligent weather prediction system developed using Machine Learning techniques. The application analyzes weather-related parameters and predicts weather conditions based on historical weather data.
 
-## Check-it out the App Deployed in the Streamlit Services
+### Features
 
-Weather Predictor App Deployed at: https://weather-predictor.streamlit.app/
+- Weather Prediction
+- Data Visualization
+- User Friendly Interface
+- Machine Learning Model Integration
+- Weather Analytics Dashboard
 
-## Run it Locally
+### Technologies Used
 
-Test it Locally by running the `app.py` file, built with `Streamlit`, and the `api.py` file with `Flask`. Remember first to run the `api.py` file, copy the http url and saved in the API variable of the `app.py` file, and uncomment the code lines.
+- Python
+- Pandas
+- NumPy
+- Scikit-Learn
+- Matplotlib
+- Streamlit
 
-## App made with Streamlit
-```sh
-streamlit run app.py
-```
+### Project Workflow
 
-## Deployed with Flash
-```sh
-python3 api.py
-```
+1. Data Collection
+2. Data Preprocessing
+3. Feature Selection
+4. Model Training
+5. Weather Prediction
+6. Result Visualization
 
-![](./assets/prev-2.gif)
+### Applications
 
-## Resources
-- Weather Predictor Dataset: https://www.kaggle.com/datasets/ananthr1/weather-prediction
+- Agriculture
+- Travel Planning
+- Disaster Management
+- Weather Monitoring
+
+### Future Enhancements
+
+- Real-time Weather API
+- Deep Learning Forecasting
+- Mobile Application
+- Multi-City Prediction
+
+### Developer
+
+Narendra Singh
+BCA Student
