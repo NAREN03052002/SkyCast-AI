@@ -46,7 +46,3 @@ SkyCast AI is an intelligent weather prediction system developed using Machine L
 - Mobile Application
 - Multi-City Prediction
 
-### Developer
-
-Narendra Singh
-BCA Student
